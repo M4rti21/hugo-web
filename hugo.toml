@@ -1,0 +1,7 @@
+baseURL = 'https://m4rti.dev'
+languageCode = 'en-us'
+title = 'Martí Comas'
+theme = 'lugo'
+
+[params]
+favicon = "/favicon.ico"
