@@ -1,7 +1,15 @@
 baseURL = 'https://m4rti.dev'
 languageCode = 'en-us'
 title = 'Martí Comas'
-theme = 'lugo'
 
 [params]
 favicon = "/favicon.ico"
+relatedtext = "Related"
+#list items
+datesinlist = true
+authorsinlist = true
+
+#footer items
+nextprev = true
+taglist = true
+showrss = true
