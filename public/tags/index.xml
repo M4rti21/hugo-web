@@ -1,24 +1,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Martí Comas</title>
-	<link>http://localhost:1313/tags/</link>
+	<link>https://m4rti.dev/tags/</link>
 	<description>Recent content in Tags on Martí Comas</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Wed, 11 Sep 2024 10:46:08 +0200</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://m4rti.dev/tags/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Start</title>
-		<link>http://localhost:1313/start/</link>
+		<link>https://m4rti.dev/start/</link>
 		<pubDate>Wed, 11 Sep 2024 10:46:08 +0200</pubDate>
 		
-		<guid>http://localhost:1313/start/</guid>
+		<guid>https://m4rti.dev/start/</guid>
 		<description>&lt;h2 id=&#34;this-is-the-first-post&#34;&gt;This is the first post&lt;/h2&gt;
 &lt;h5 id=&#34;i-dont-know-what-im-gonna-use-this-for-guess-ill-figure-it-out-as-i-go&#34;&gt;&lt;em&gt;I don&amp;rsquo;t know what I&amp;rsquo;m gonna use this for, guess I&amp;rsquo;ll figure it out as I go.&lt;/em&gt;&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/stupid.jpg#cover&#34; alt=&#34;stupid&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://m4rti.dev/stupid.jpg#cover&#34; alt=&#34;stupid&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Recently I&amp;rsquo;ve been realizing how the internet has become a big monopoly, what I
 mean is that the web was intended to be this place where you&amp;rsquo;d navigate across
 websites, there&amp;rsquo;d be websites with links to other websites and it was fun to
