@@ -35,6 +35,7 @@
     {{ block "footer" . }}
     <footer>
         <span>Contact me at <a href="mailto:m4rti21@proton.me">m4rti21@proton.me</a></span>
+	    {{- if .Param "showrss" }}<br><br><a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>{{ end }}
     </footer>
     {{ end }}
 </body>
