@@ -6,7 +6,7 @@ title = 'Welcome'
 
 # Martí Comas
 
-I'm really into programming and Linux. 
+I love programming and Linux.
 Over the past few years, I've been paying more attention 
 to my online privacy and making an effort to use free and open-source software. 
 It's all about staying secure and supporting great community-driven tools!
