@@ -1,63 +1,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Martí Comas</title>
-	<link>https://m4rti.dev/categories/</link>
+	<link>http://localhost:1313/categories/</link>
 	<description>Recent content in Categories on Martí Comas</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="https://m4rti.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
-		<title>Start</title>
-		<link>https://m4rti.dev/start/</link>
+		<title>I hate the modern web</title>
+		<link>http://localhost:1313/i_hate_the_modern_web/</link>
 		<pubDate>Wed, 11 Sep 2024 10:46:08 +0200</pubDate>
 		
-		<guid>https://m4rti.dev/start/</guid>
-		<description>&lt;h2 id=&#34;this-is-the-first-post&#34;&gt;This is the first post&lt;/h2&gt;
-&lt;h5 id=&#34;i-dont-know-what-im-gonna-use-this-for-guess-ill-figure-it-out-as-i-go&#34;&gt;&lt;em&gt;I don&amp;rsquo;t know what I&amp;rsquo;m gonna use this for, guess I&amp;rsquo;ll figure it out as I go.&lt;/em&gt;&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&#34;https://m4rti.dev/stupid.jpg#cover&#34; alt=&#34;stupid&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Recently I&amp;rsquo;ve been realizing how the internet has become a big monopoly, what I
-mean is that the web was intended to be this place where you&amp;rsquo;d navigate across
-websites, there&amp;rsquo;d be websites with links to other websites and it was fun to
-discover countless new sites about different topics.&lt;/p&gt;
-&lt;p&gt;Nowadays that has been monopolized, there are still some small websites but now
-its all controlled by a handfull of companies (Google, Facebook, Twitter, Reddit&amp;hellip;)
-and not many more.&lt;/p&gt;
-&lt;p&gt;That has some advantages, for example, you don&amp;rsquo;t have to put much efford or
-thought into your internet life, you want to see videos? go to YouTube, you
-want to scroll through your friends posts? go to Instagram&amp;hellip; Post on one place
-and everyone
-will be able to see it, you don&amp;rsquo;t have to drive people to your site to see your
-stuff, it will get recommended by some sort of algorythm and everyone will get
-to know you, that can be good for some businesess to get some easy marketing,
-it has given lots of people a career being a content creator and surley there
-are more good things about it that I haven&amp;rsquo;t even thought aboyt.&lt;/p&gt;
-&lt;p&gt;But that has some implications, first is that as I have been noticing for quite
-a while now, most of the internet is now shifted to play with the system, most
-YouTube videos&amp;rsquo; thumbnails are clickbait so they&amp;rsquo;ll get more views, even if
-mindless ones, most Twitter posts are bait so people engage on the comments,
-TikTok has a bunch of nothingness on it to the point where someone can spend 6h
-scrolling on it and not be able to recall a single thing they saw on that,
-because they didn&amp;rsquo;t, your brain stays on a semi-awake stage just letting time
-go by without doing anything.&lt;/p&gt;
-&lt;p&gt;I might write my thoughts more deeply on that once I figure out how I really
-feel about all of this, but what I wanted to get to is:&lt;/p&gt;
-&lt;p&gt;With such monopolies platforms decide who to give a voice and controll the view
-people have on the world, that&amp;rsquo;s not what the internet was for (actually it was
-created for military purposes but that&amp;rsquo;s besides the point&amp;hellip;), I want to bring
-the old internet back, where people are not relying on big platforms to get
-each other thoughts, to get their media, to interact with people, and so even
-though I&amp;rsquo;m not sure for how long I&amp;rsquo;ll keep this up or if I&amp;rsquo;ll use it at all,
-I&amp;rsquo;ve decided to at least give this a try, to see if it is possible to go back
-to a more &amp;ldquo;pure&amp;rdquo; way of doing things.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ll use this website to post my thoughts on stuff, I don&amp;rsquo;t expect anyone to
-find, read or care about anything that I say in here, but I&amp;rsquo;d rather speak my
-mind on a platform I own and I&amp;rsquo;d like to encourage people to do the same.&lt;/p&gt;
+		<guid>http://localhost:1313/i_hate_the_modern_web/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/stupid.jpg#cover&#34; alt=&#34;stupid&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;start&#34;&gt;Start&lt;/h3&gt;
+&lt;p&gt;Recently I&amp;rsquo;ve been realizing how the internet has become a big monopoly, people
+don&amp;rsquo;t navigate across different websites to find cool sutff but rather go to the
+same few sites (YouTube, Facebook, Twitter, Reddit&amp;hellip;) and consume the internet
+through their lens.&lt;/p&gt;
+&lt;h3 id=&#34;the-good-side&#34;&gt;The good side&lt;/h3&gt;
+&lt;p&gt;I am aware that that has some advantages and it seems a reasonable place we&amp;rsquo;d
+end up given enough time, it removes the efford of having to find those sites
+in the first place, for videos there is YouTube, for friends posts there&amp;rsquo;s
+Instagram, for discussions on topics there is Reddit&amp;hellip; It also works the other
+way around, if you want your content to be seen it&amp;rsquo;s much easier to do so on
+a platform that already has people on it instad of creating your own, that can
+help small businesess make themselves known, it has created &amp;ldquo;content creator&amp;rdquo;
+careers where there is people that live of of that now and I&amp;rsquo;m sure anyone could
+come up with more positive points.&lt;/p&gt;
+&lt;h3 id=&#34;the-not-so-good-side&#34;&gt;The not-so-good side&lt;/h3&gt;
+&lt;p&gt;But as always this comes with some bad, most of the internet has shifted to be
+&amp;ldquo;algorythm firendly&amp;rdquo; and whose sole purpose is to get views which later become
+monetized. The problem are the algorythms, every modern website has some sort
+of system to determine what to show you next, first notice the word &amp;ldquo;show you&amp;rdquo;,
+you are not searching for something, but rather consuming what&amp;rsquo;s being fed
+through your screen, even on cases like YouTube where you have to click on a
+video to watch it you clicked on it because it was shown to you, people rarley
+watch a video that wasn&amp;rsquo;t shown either on the Home or the Recommended section,
+and that&amp;rsquo;s the best case scenario, things like TikTok, Instagram, Twitter you
+just mindlessly scroll over hundreds of posts that a robot is serving to you,
+worst thing is most of the time you can&amp;rsquo;t even recall a fraction of what you saw
+once you are done with it, does that hapen with anything else &lt;strong&gt;you enjoy&lt;/strong&gt; in
+your life? Have you ever watched a movie, played a game, went out with some
+friends, and not been able to recall 90% of it? Mind the emphasis on &amp;ldquo;you enjoy&amp;rdquo;,
+if its a boring movie you might not pay atention and not recall, if you are
+in school on a subject you don&amp;rsquo;t like you won&amp;rsquo;t remember as much&amp;hellip; But, you
+like watching social media, do you? At first people&amp;rsquo;d agree, that&amp;rsquo;s why they
+consume it all the time, but does that not contradict with every other activity?&lt;/p&gt;
+&lt;h3 id=&#34;thats-only-social-media-right&#34;&gt;That&amp;rsquo;s only social media, right?&lt;/h3&gt;
+&lt;p&gt;Wrong.&lt;/p&gt;
+&lt;p&gt;Most of the web works on the same fashion now, news sites always have clickbait
+titles to get you in, and once you enter, you get bombarded with recommended
+articles. Even cooking tutorial sites like cooking ones try to trap you as
+much as they can with nonsense stories and filling hiding the true content for
+which you are in the site to begin with, online shops, app stores, and basically
+everything follows the same &amp;ldquo;feeding you content&amp;rdquo; and &amp;ldquo;traping you in&amp;rdquo; rules.&lt;/p&gt;
+&lt;h3 id=&#34;why-do-they-want-to-keep-you-in&#34;&gt;Why do they want to keep you in?&lt;/h3&gt;
+&lt;p&gt;Ads, ads and ads (and selling your data, tracking you across devices, making a
+profile from all you do online&amp;hellip;) and more ads.&lt;/p&gt;
+&lt;p&gt;- &lt;em&gt;So are you against companies making money online? Do you want everything for free?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;No, first there are multiple ways for companies to make money online that don&amp;rsquo;t
+include tracking you and selling your data. Also, in real life ads don&amp;rsquo;t target
+you specifically, the ads on a country might not be the same as in another, but
+it still is a general ad, its not been served to you after studying the best way
+to influence you specifically by
+&lt;a href=&#34;https://arstechnica.com/gadgets/2023/12/no-a-marketing-firm-isnt-tapping-your-device-to-hear-private-conversations/&#34;&gt;listening&lt;/a&gt; -
+&lt;a href=&#34;https://lifehacker.com/just-how-much-does-your-phone-listen-to-sell-you-target-1848495516&#34;&gt;through&lt;/a&gt; -
+&lt;a href=&#34;https://dobetter.esade.edu/en/phone-listening-personalized-ads&#34;&gt;your&lt;/a&gt; -
+&lt;a href=&#34;https://futurism.com/the-byte/facebook-partner-phones-listening-microphone&#34;&gt;microphone&lt;/a&gt;
+and many more sketchy tactics.&lt;/p&gt;
+&lt;h3 id=&#34;companies-want-to-own-you&#34;&gt;Companies want to own you.&lt;/h3&gt;
+&lt;p&gt;The businesess model has shifted, online companies providing you with a
+service you need and you giving them money in exchange does not ocurr on the
+big platforms people use (yes, there are online courses you pay for, some paid
+news letters, and those are great! UNLESS they also use any of the scummy
+tactics mentioned previously), but rather, they try to monopolize a format
+(like YouTube with videos, and Instagram with Posts) and then play with your
+brain to keep you in, althoug it may seem radical, they are literally feeding
+from your atention, they keep you in a state of trance for hours at a time
+and rewrite your brain into comming back for more.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/evil-attention-farming.png#cover&#34; alt=&#34;stupid&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve been heavily inspired by &lt;a href=&#34;https://lukesmith.xyz&#34;&gt;Luke Smith&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/@MentalOutlaw&#34;&gt;Mental Outlaw&lt;/a&gt; and
-&lt;a href=&#34;https://www.techlore.tech/&#34;&gt;Techlore&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/@EricMurphyxyz&#34;&gt;Eric Murphy&lt;/a&gt;.&lt;/p&gt;
 </description>
 	</item>
 	
