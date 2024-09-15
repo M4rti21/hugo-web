@@ -99,26 +99,23 @@ I've already taken some steps away from all of this, although ofcourse I can
 only act for myself, I deleted Instagram long long ago, I never had a TikTok,
 I stopped using reddit in 2023 and in June 2024 I finally quit Twitter, my
 last splinter is YouTube and I'm pretty sure I won't stop using completeley, but
-I still took some action, from now on I'll use YouTube without an account to:
+I still took some action:
 
-1. Eliminate any sort of algorithm based on my history.
-2. Not have a subscriptions system. 
+1. I use YouTube without an account to eliminate any sort of algorithm based on
+my history.
+2. I'll keep track of subscribed channels on a RSS feed.
+3. I'll use either fullscreen or theater mode to minimize the recommendations I
+get while watching a video.
 
-I don't want to be refreshing to see if there are new videos, I'll instead use
-a [bookmarking script](https://github.com/M4rti21/dotfiles/blob/main/scripts/book)
-I made to save the links to the channels I might want to see from time to time.
-Also I'll use an [extension](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/) 
-to:
+I've also been playing with a [bookmarking script](https://github.com/M4rti21/dotfiles/blob/main/scripts/book)
+I made to save the links, so that might be usefull too not just for YouTube.
 
-3. Force theater mode so I don't get distractions while watching a video.
-
-I'll still have the recommendations at the end of a video, and I don't fully see
-it as a bad thing, because I don't have an account recommendations will only be
-based off of this one video I've just watched so it'll be a good way to find new
-content I might like but it won't be enough for it to create a profile on me and
-feed me random content, is it just as bad? You could argue it is, I might change
-this page in the future if my stands on this change, but for the time being, 
-this is it :D
+I'll still have the recommendations at the end of a video but because I don't 
+have an account recommendations will only be based off of this one video I've
+just watched so it'll be a good way to find new content I might like but it
+won't be enough for it to create a profile on me and feed me random content, is
+it just as bad? You could argue it is, I might change this page in the future if
+my stands on this change, but for the time being, this is it :D
 
 *PD: No way anyone reads this ever but whatever ¯\\_(ツ)_/¯*
 
