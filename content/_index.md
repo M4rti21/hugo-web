@@ -2,9 +2,9 @@
 title = 'Welcome'
 +++
 
-![me](jo.jpg#pfp)
+## Martí Comas
 
-# Martí Comas
+![me](jo.jpg#pfp)
 
 I love programming and Linux.
 Over the past few years, I've been paying more attention 

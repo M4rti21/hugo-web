@@ -44,8 +44,7 @@ img {
 }
 
 img[src$='#pfp'] {
-    height: 128px;
-    float: right;
+    height: 248px;
 }
 
 img[src$='#cover'] {

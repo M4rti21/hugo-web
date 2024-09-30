@@ -1,5 +1,5 @@
 +++
-title = "I hate the modern web"
+title = "I hate the modern internet"
 subtitle = "This is just a rumble but I'd love to hear other people's thoughts"
 date = 2024-09-11T10:46:08+02:00
 tags = ["internet","social media"]
