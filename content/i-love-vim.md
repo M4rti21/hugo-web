@@ -2,6 +2,7 @@
 title = 'I Love Vim'
 date = 2024-09-30T23:57:49+02:00
 tags = ["vim","tech", "linux", "terminal", "workflow"]
+draft = true
 +++
 
 I actually use neovim.
